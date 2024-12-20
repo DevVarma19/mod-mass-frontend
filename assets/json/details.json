@@ -1,0 +1,896 @@
+{
+    "fileName": "details.json",
+    "details": {
+        "walk": {
+            "tripdiscovery": {
+                "standards": [
+                    {
+                        "text": "ISO 20524-1:2020:",
+                        "weblink": "https://www.iso.org/standard/68244.html"
+                    },
+                    {
+                        "text": "ISO 17572-4:2020:",
+                        "weblink": "https://www.iso.org/standard/72984.html"
+                    },
+                    {
+                        "text": "ISO 19237:2017:",
+                        "weblink": "https://www.iso.org/standard/64111.html"
+                    }
+                ],
+                "guidance": [],
+                "casestudies": [
+                    {
+                        "text": "Google Maps:",
+                        "weblink": "https://www.google.com/maps"
+                    },
+                    {
+                        "text": "Citymapper:",
+                        "weblink": "https://citymapper.com/?lang=en"
+                    }
+                ]
+            },
+            "payment": {
+                "standards": [],
+                "guidance": [],
+                "casestudies": []
+            },
+            "operations": {
+                "standards": [
+                    {
+                        "text": "Open Mobility Foundation. (2022). Curb Data Specification (CDS).",
+                        "weblink": "https://github.com/openmobilityfoundation/curb-data-specification"
+                    },
+                    {
+                        "text": "Public Right-of-Way Accessibility Guidelines (PROWAG):",
+                        "weblink": "https://www.access-board.gov/files/prowag/PROW-SUP-SNPRM-2013.pdf "
+                    },
+                    {
+                        "text": "ISO 4448 Sidewalk and kerb operations for automated vehicles (under development)",
+                        "weblink": "https://www.mobilityits.eu/kerbside-management"
+                    },
+                    {
+                        "text": "Consumer Technology Association ANSI/CTA-2076:",
+                        "weblink": " https://gnc3.com/wp-content/uploads/2020/01/Inclusive-Audio-based-Network-Navigation-Systems-for-All-Persons-including-those-Who-are-Blind-Low-Vision5.pdf"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "Bouattoura, F., Zingalli, J., Brown, L., Gopalakrishna, D., & Neelakantan, R. (2020). Mobility on Demand Marketplace Concept of Operations Blueprint. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/53343"
+                    },
+                    {
+                        "text": "Okunieff, P. E., Brown, L., Heggedal, K., O'Reilly, K., Weisenberger, T., Guan, A., . . . Schweiger, C. (2020). Multimodal and Accessible Travel Standards Assessment – Outreach Report. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/55242"
+                    },
+                    {
+                        "text": "DUK Department of Transport. (2021). Inclusive Mobility: A Guide to Best Practice on Access to Pedestrian and Transport Infrastructure.",
+                        "weblink": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1044542/inclusive-mobility-a-guide-to-best-practice-on-access-to-pedestrian-and-transport-infrastructure.pdf"
+                    },
+                    {
+                        "text": "CurbLR:",
+                        "weblink": "https://www.curblr.org/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Shaheen, S. A., Cohen, A. P., Broader, J., Davis, R., Brown, L., Neelakantan, R., & Gopalakrishna, D. (2020). Mobility on Demand Planning and Implementation: Current Practices, Innovations, and Emerging Mobility Futures. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/50553"
+                    }
+                ]
+            }
+        },
+        "fixedroutebus": {
+            "tripdiscovery": {
+                "standards": [
+                    {
+                        "text": "EN12896: Public Transport Reference Data Model:",
+                        "weblink": "https://www.en-standard.eu/csn-en-12896-1-public-transport-reference-data-model-part-1-common-concepts/"
+                    },
+                    {
+                        "text": "EN 15531:",
+                        "weblink": "https://www.en-standard.eu/csn-en-15531-2-public-transport-service-interface-for-real-time-information-relating-to-public-transport-operations-part-2-communications/"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS):",
+                        "weblink": "https://gtfs.org/"
+                    },
+                    {
+                        "text": "Caltrans-California Minimum GTFS guidelines:",
+                        "weblink": "https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines-v2_0"
+                    },
+                    {
+                        "text": "Schweiger, C., O'Reilly, K., Chang, A., Guan, A., Okunieff, P. E., Neelakantan, R., . . . Peck, C. (2019). Forward-Looking Assessment White Paper: Multimodal and Accessible Travel Standards Assessment – Task 2. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/53933"
+                    },
+                    {
+                        "text": "MaaS Alliance: Interoperability for Mobility, Data Models, and API:",
+                        "weblink": "https://maas-alliance.eu/wp-content/uploads/2021/11/20211120-Def-Version-Interoperaability-for-Mobility.-Data-Models-and-API-_-FINAL.pdf"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "MaaS Bogota, Bogota, Colombia:",
+                        "weblink": "https://www.trafi.com/bogota-maas/"
+                    },
+                    {
+                        "text": "Bristol One City, United Kingdom:",
+                        "weblink": "https://opendata.bristol.gov.uk/explore/?sort=modified"
+                    },
+                    {
+                        "text": "King County, WA:",
+                        "weblink": "https://kingcounty.gov/depts/transportation/metro/travel-options/bus/app-center.aspx"
+                    }
+                ]
+            },
+            "payment": {
+                "standards": [
+                    {
+                        "text": "ISO 24014-1:2021",
+                        "weblink": "https://www.iso.org/standard/72507.html"
+                    },
+                    {
+                        "text": "ISO/TR 21724-1:2020",
+                        "weblink": "https://www.iso.org/standard/71511.html"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Fares v2:",
+                        "weblink": "https://gtfs.org/schedule/examples/fares-v2/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "iMOVE Sydney MaaS Trial, Sydney, Australia:",
+                        "weblink": "https://imoveaustralia.com/wp-content/uploads/2021/04/iMOVE-Sydney-MaaS-Trial-Final-Report-March-2021.pdf"
+                    },
+                    {
+                        "text": "Regional Transportation District (RTD), Uber, Masabi-Denver, Colorado:",
+                        "weblink": "https://www.rtd-denver.com/projects/uber-collaboration"
+                    },
+                    {
+                        "text": "Transit app:",
+                        "weblink": "https://resources.transitapp.com/article/396-mobile-ticketing-api-guidelines"
+                    },
+                    {
+                        "text": "MaaS Bogota, Bogota, Colombia:",
+                        "weblink": "https://www.trafi.com/bogota-maas/"
+                    }
+                ]
+            },
+            "operations": {
+                "standards": [
+                    {
+                        "text": "​EN12896: Public Transport Reference Data Model:",
+                        "weblink": "https://www.en-standard.eu/csn-en-12896-1-public-transport-reference-data-model-part-1-common-concepts/"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Realtime:",
+                        "weblink": "https://gtfs.org/realtime/"
+                    },
+                    {
+                        "text": "Mobility Data Specification (MDS):",
+                        "weblink": "https://ladot.io/wp-content/uploads/2018/12/What-is-MDS-Cities.pdf"
+                    },
+                    {
+                        "text": "TransitCenter, The Data Transit Riders Want:",
+                        "weblink": "https://transitcenter.org/wp-content/uploads/2018/12/TC_TransitData_Final_FullLayout_121718-1.pdf"
+                    },
+                    {
+                        "text": "Operational Data Standards (Personnel and Deadheads):",
+                        "weblink": "https://docs.calitp.org/operational-data-standard/"
+                    },
+                    {
+                        "text": "Schweiger, C., O'Reilly, K., Chang, A., Guan, A., Okunieff, P. E., Neelakantan, R., . . . Peck, C. (2019). Forward-Looking Assessment White Paper: Multimodal and Accessible Travel Standards Assessment – Task 2. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/53933"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "iMOVE Sydney MaaS Trial, Sydney, Australia:",
+                        "weblink": "https://imoveaustralia.com/wp-content/uploads/2021/04/iMOVE-Sydney-MaaS-Trial-Final-Report-March-2021.pdf"
+                    },
+                    {
+                        "text": "Smart Columbus, OH:",
+                        "weblink": "https://d2rfd3nxvhnf29.cloudfront.net/2021-06/SCC-J-Program-Final%20Report-Final-V2_0.pdf"
+                    },
+                    {
+                        "text": "Transit App:",
+                        "weblink": "https://resources.transitapp.com/article/404-fixed-route-transit-information"
+                    }
+                ]
+            }
+        },
+        "flexibleroutebus": {
+            "tripdiscovery": {
+                "standards": [
+                    {
+                        "text": "EN12896: Public Transport Reference Data Model:",
+                        "weblink": "https://www.en-standard.eu/csn-en-12896-1-public-transport-reference-data-model-part-1-common-concepts/"
+                    },
+                    {
+                        "text": "EN 15531:",
+                        "weblink": "https://www.en-standard.eu/csn-en-15531-2-public-transport-service-interface-for-real-time-information-relating-to-public-transport-operations-part-2-communications/"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS):",
+                        "weblink": "https://gtfs.org/"
+                    },
+                    {
+                        "text": "Caltrans-California Minimum GTFS guidelines:",
+                        "weblink": "https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines-v2_0"
+                    },
+                    {
+                        "text": "Schweiger, C., O'Reilly, K., Chang, A., Guan, A., Okunieff, P. E., Neelakantan, R., . . . Peck, C. (2019). Forward-Looking Assessment White Paper: Multimodal and Accessible Travel Standards Assessment – Task 2. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/53933"
+                    },
+                    {
+                        "text": "MaaS Alliance: Interoperability for Mobility, Data Models, and API:",
+                        "weblink": "https://maas-alliance.eu/wp-content/uploads/2021/11/20211120-Def-Version-Interoperaability-for-Mobility.-Data-Models-and-API-_-FINAL.pdf"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Craig, T., & Shippy, W. (2020). GTFS Flex–What Is It and How Is It Used? Retrieved from",
+                        "weblink": "https://n-catt.org/wp-content/uploads/2020/12/GTFS-Flex_WhitePaper_Final.pdf"
+                    },
+                    {
+                        "text": "OpenTripPlanner:",
+                        "weblink": "http://docs.opentripplanner.org/en/v1.5.0/Flex/#gtfs-flex-routing"
+                    },
+                    {
+                        "text": "Fiscal Year 2016 Mobility on Demand (MOD) Sandbox Program Projects:",
+                        "weblink": "https://www.transit.dot.gov/research-innovation/fiscal-year-2016-mobility-demand-mod-sandbox-program-projects"
+                    }
+                ]
+            },
+            "payment": {
+                "standards": [
+                    {
+                        "text": "ISO 24014-1:2021",
+                        "weblink": "https://www.iso.org/standard/72507.html"
+                    },
+                    {
+                        "text": "ISO/TR 21724-1:2020",
+                        "weblink": "https://www.iso.org/standard/71511.html"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Fares v2:",
+                        "weblink": "https://gtfs.org/schedule/examples/fares-v2/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Fiscal Year 2016 Mobility on Demand (MOD) Sandbox Program Projects:",
+                        "weblink": "https://www.transit.dot.gov/research-innovation/fiscal-year-2016-mobility-demand-mod-sandbox-program-projects"
+                    }
+                ]
+            },
+            "operations": {
+                "standards": [
+                    {
+                        "text": "​EN12896: Public Transport Reference Data Model:",
+                        "weblink": "https://www.en-standard.eu/csn-en-12896-1-public-transport-reference-data-model-part-1-common-concepts/"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Realtime:",
+                        "weblink": "https://gtfs.org/realtime/"
+                    },
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Flex (V2):",
+                        "weblink": "https://github.com/MobilityData/gtfs-flex"
+                    },
+                    {
+                        "text": "Mobility Data Specification (MDS):",
+                        "weblink": "https://ladot.io/wp-content/uploads/2018/12/What-is-MDS-Cities.pdf"
+                    },
+                    {
+                        "text": "TransitCenter, The Data Transit Riders Want:",
+                        "weblink": "https://transitcenter.org/wp-content/uploads/2018/12/TC_TransitData_Final_FullLayout_121718-1.pdf"
+                    },
+                    {
+                        "text": "Schweiger, C., O'Reilly, K., Chang, A., Guan, A., Okunieff, P. E., Neelakantan, R., . . . Peck, C. (2019). Forward-Looking Assessment White Paper: Multimodal and Accessible Travel Standards Assessment – Task 2. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/53933"
+                    },
+                    {
+                        "text": "Transactional Data Specification (TDS):",
+                        "weblink": "https://sharedusemobilitycenter.org/the-transactional-data-specification-a-building-block-for-equitable-mobility-as-a-service/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Fiscal Year 2016 Mobility on Demand (MOD) Sandbox Program Projects:",
+                        "weblink": "https://www.transit.dot.gov/research-innovation/fiscal-year-2016-mobility-demand-mod-sandbox-program-projects"
+                    }
+                ]
+            }
+        },
+        "paratransit": {
+            "tripdiscovery": {
+                "standards": [
+                    {
+                        "text": "EN12896: Public Transport Reference Data Model:",
+                        "weblink": "https://www.en-standard.eu/csn-en-12896-1-public-transport-reference-data-model-part-1-common-concepts/"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS):",
+                        "weblink": "https://gtfs.org/"
+                    },
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Pathways/PathwayUpdates:",
+                        "weblink": "https://gtfs.org/extensions/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Mobility on Demand (MOD) Sandbox Demonstration: Pinellas Suncoast Transit Authority (PSTA) Public-Private-Partnership for Paratransit Evaluation Report:",
+                        "weblink": "https://www.transit.dot.gov/sites/fta.dot.gov/files/2022-04/FTA-Report-No-0213_0.pdf"
+                    },
+                    {
+                        "text": "Mobility on Demand (MOD) Sandbox Demonstration: Dallas Area Rapid Transit (DART) First and Last Mile Solution:",
+                        "weblink": "https://www.transit.dot.gov/sites/fta.dot.gov/files/2021-06/FTA-Report-No-0195.pdf"
+                    },
+                    {
+                        "text": "Mobility on Demand Every Day Program-Santa Monica, California:",
+                        "weblink": "https://www.bigbluebus.com/Rider-Info/Mobility-On-Demand-Every-Day-Program.aspx"
+                    }
+                ]
+            },
+            "payment": {
+                "standards": [
+                    {
+                        "text": "ISO 24014-1:2021",
+                        "weblink": "https://www.iso.org/standard/72507.html"
+                    },
+                    {
+                        "text": "ISO/TR 21724-1:2020",
+                        "weblink": "https://www.iso.org/standard/71511.html"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Fares v2:",
+                        "weblink": "https://gtfs.org/schedule/examples/fares-v2/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Fiscal Year 2016 Mobility on Demand (MOD) Sandbox Program Projects:",
+                        "weblink": "https://www.transit.dot.gov/research-innovation/fiscal-year-2016-mobility-demand-mod-sandbox-program-projects"
+                    }
+                ]
+            },
+            "operations": {
+                "standards": [
+                    {
+                        "text": "National RTAP-General Requirements for All Service Types:",
+                        "weblink": "https://www.nationalrtap.org/Toolkits/ADA-Toolkit/Service-Type-Requirements/General-Requirements-Common-to-All-Service-Types"
+                    },
+                    {
+                        "text": "2010 ADA Standards for Accessible Design.",
+                        "weblink": "https://www.ada.gov/regs2010/2010ADAStandards/2010ADAstandards.htm"
+                    },
+                    {
+                        "text": "Public Right-of-Way Accessibility Guidelines (PROWAG):",
+                        "weblink": "https://www.access-board.gov/files/prowag/PROW-SUP-SNPRM-2013.pdf "
+                    },
+                    {
+                        "text": "SAE J3171_201911:",
+                        "weblink": "https://www.sae.org/standards/content/j3171_201911/"
+                    },
+                    {
+                        "text": "ISO 10865-1:2012(en)",
+                        "weblink": "https://www.iso.org/obp/ui/#iso:std:iso:10865:-1:ed-1:v1:en"
+                    },
+                    {
+                        "text": "ISO 10865-2:2015(en)",
+                        "weblink": "https://www.iso.org/obp/ui/#iso:std:iso:10865:-2:ed-1:v1:en"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Pathways/PathwayUpdates:",
+                        "weblink": "https://gtfs.org/extensions/"
+                    },
+                    {
+                        "text": "Okunieff, P. E., Brown, L., Heggedal, K., O'Reilly, K., Weisenberger, T., Guan, A., . . . Schweiger, C. (2020). Multimodal and Accessible Travel Standards Assessment – Outreach Report. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/55242"
+                    },
+                    {
+                        "text": "Transactional Data Specification (TDS):",
+                        "weblink": "https://sharedusemobilitycenter.org/the-transactional-data-specification-a-building-block-for-equitable-mobility-as-a-service/"
+                    },
+                    {
+                        "text": "Chang, A., Guan, A., Okunieff, P. E., Heggedal, K., Brown, L., Schweiger, C., & O'Reilly, K. (2019). Multimodal and Accessible Travel Standards Assessment [Survey of Standards and Emerging Standards White Paper]. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/43633"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Mobility on Demand (MOD) Sandbox Demonstration: Pinellas Suncoast Transit Authority (PSTA) Public-Private-Partnership for Paratransit Evaluation Report:",
+                        "weblink": "https://www.transit.dot.gov/sites/fta.dot.gov/files/2022-04/FTA-Report-No-0213_0.pdf"
+                    },
+                    {
+                        "text": "Mobility on Demand (MOD) Sandbox Demonstration: Dallas Area Rapid Transit (DART) First and Last Mile Solution:",
+                        "weblink": "https://www.transit.dot.gov/sites/fta.dot.gov/files/2021-06/FTA-Report-No-0195.pdf"
+                    },
+                    {
+                        "text": "Mobility on Demand Every Day Program-Santa Monica, California:",
+                        "weblink": "https://www.bigbluebus.com/Rider-Info/Mobility-On-Demand-Every-Day-Program.aspx"
+                    }
+                ]
+            }
+        },
+        "bikeandmicromobility": {
+            "tripdiscovery": {
+                "standards": [],
+                "guidance": [
+                    {
+                        "text": "General Bikeshare Feed Specification (GBFS):",
+                        "weblink": "https://nabsa.net/resources/gbfs/"
+                    },
+                    {
+                        "text": "General Bikeshare Feed Specification (GBFS) +:",
+                        "weblink": "https://github.com/openbikeshare/gbfsplus"
+                    },
+                    {
+                        "text": "MaaS Alliance: Interoperability for Mobility, Data Models, and API:",
+                        "weblink": "https://maas-alliance.eu/wp-content/uploads/2021/11/20211120-Def-Version-Interoperaability-for-Mobility.-Data-Models-and-API-_-FINAL.pdf"
+                    },
+                    {
+                        "text": "Transport Operator Mobility-as-a-service Provider (TOMP) from Github:",
+                        "weblink": "https://github.com/TOMP-WG/TOMP-API"
+                    },
+                    {
+                        "text": "Transport Operator Mobility-as-a-service Provider (TOMP) from Dutch Mobility Innovations:",
+                        "weblink": "https://dutchmobilityinnovations.com/attachment?file=FN%2F9HXXdbnjwbPscgpt1LA%3D%3D"
+                    },
+                    {
+                        "text": "Institute for Transportation and Development Policy. (2013). “Riding the Bike-Share Boom: The Top Five Components of a Successful System.” Available at:",
+                        "weblink": "http://www.itdp.org/riding-the-bike-share-boom-thetop-five-components-of-a-successful-system/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Trafi Vilnius, Vilnius, Lithuania",
+                        "weblink": "https://www.trafi.com/vilnius/"
+                    },
+                    {
+                        "text": "eHubs – Smart shared green mobility hubs:",
+                        "weblink": "https://www.nweurope.eu/projects/project-search/ehubs-smart-shared-green-mobility-hubs/"
+                    },
+                    {
+                        "text": "City of Olathe and Mid America Regional Council. (2018). Bike Share Implementation Strategy.",
+                        "weblink": "https://www.marc.org/sites/default/files/2022-06/PSP-Projects-2019-Olathe_Final-Plan.pdf"
+                    }
+                ]
+            },
+            "payment": {
+                "standards": [
+                    {
+                        "text": "ISO/TR 21724-1:2020",
+                        "weblink": "https://www.iso.org/standard/71511.html"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "Transport Operator Mobility-as-a-service Provider (TOMP) from Github:",
+                        "weblink": "https://github.com/TOMP-WG/TOMP-API"
+                    },
+                    {
+                        "text": "Transport Operator Mobility-as-a-service Provider (TOMP) from Dutch Mobility Innovations:",
+                        "weblink": "https://dutchmobilityinnovations.com/attachment?file=FN%2F9HXXdbnjwbPscgpt1LA%3D%3D"
+                    },
+                    {
+                        "text": "Garcia, J. R. R., van den Belt, E., Bakermans, B., & Groen, T. (2020). Blueprint for an application programming interface from transport operator to maas provider (tomp-api)–version dragonfly.",
+                        "weblink": "https://github.com/TOMP-WG/TOMP-API/blob/master/documents/200301%20-%20Blueprint%20for%20a%20TOMP%20API%20v1.2.pdf"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "MaaS in Netherlands-Seven pilots:",
+                        "weblink": "https://dutchmobilityinnovations.com/fileattachment?file=NZMb7vThGsXAYQh2kmLvUQ%3D%3D&v=1"
+                    },
+                    {
+                        "text": "Transit app:",
+                        "weblink": "https://resources.transitapp.com/article/396-mobile-ticketing-api-guidelines"
+                    }
+                ]
+            },
+            "operations": {
+                "standards": [
+                    {
+                        "text": "SAE J3194:",
+                        "weblink": "https://www.sae.org/standards/content/j3194_201911/"
+                    },
+                    {
+                        "text": "ISO 43.150 Cycles",
+                        "weblink": "https://www.iso.org/ics/43.150/x/"
+                    },
+                    {
+                        "text": "CEN EN 17128:2020:",
+                        "weblink": "https://standards.iteh.ai/catalog/standards/cen/06f10ef5-7444-4c8d-bdf5-1090295e5031/en-17128-2020"
+                    },
+                    {
+                        "text": "MDC00001202004 Guidelines for Mobility Data Sharing Governance and Contracting:",
+                        "weblink": "https://www.sae.org/standards/content/mdc00001202004/"
+                    },
+                    {
+                        "text": "ISO 4448 Sidewalk and kerb operations for automated vehicles (under development)",
+                        "weblink": "https://www.mobilityits.eu/kerbside-management"
+                    },
+                    {
+                        "text": "ISO 22085-1 through 3:",
+                        "weblink": "https://www.iso.org/standard/75366.html"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Bikeshare Feed Specification (GBFS):",
+                        "weblink": "https://nabsa.net/resources/gbfs/"
+                    },
+                    {
+                        "text": "Mobility Data Specification (MDS):",
+                        "weblink": "https://ladot.io/wp-content/uploads/2018/12/What-is-MDS-Cities.pdf"
+                    },
+                    {
+                        "text": "City Data Standard for Mobility (CDS-M):",
+                        "weblink": "https://www.polisnetwork.eu/wp-content/uploads/2021/03/CDS-M_Blueprint_v0.0.1.docx2_.pdf"
+                    },
+                    {
+                        "text": "Transportation-Research-Board, & NASEM. (2022). Micromobility Policies, Permits, and Practices. Washington, DC: The National Academies Press.",
+                        "weblink": "https://nap.nationalacademies.org/catalog/26815/micromobility-policies-permits-and-practices"
+                    },
+                    {
+                        "text": "CurbLR:",
+                        "weblink": "https://www.curblr.org/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "MaaS in Netherlands-Seven pilots:",
+                        "weblink": "https://dutchmobilityinnovations.com/fileattachment?file=NZMb7vThGsXAYQh2kmLvUQ%3D%3D&v=1"
+                    },
+                    {
+                        "text": "City of Olathe and Mid America Regional Council. (2018). Bike Share Implementation Strategy.",
+                        "weblink": "https://www.marc.org/sites/default/files/2022-06/PSP-Projects-2019-Olathe_Final-Plan.pdf"
+                    },
+                    {
+                        "text": "Institute for Transportation and Development policy. (2018).The Bikeshare Planning Guide.",
+                        "weblink": "https://www.transformative-mobility.org/assets/publications/The-Bikeshare-Planning-Guide-ITDP-Datei.pdf"
+                    },
+                    {
+                        "text": "Smart Columbus, OH:",
+                        "weblink": "https://d2rfd3nxvhnf29.cloudfront.net/2021-06/SCC-J-Program-Final%20Report-Final-V2_0.pdf"
+                    }
+                ]
+            }
+        },
+        "ondemandmicrotransit": {
+            "tripdiscovery": {
+                "standards": [],
+                "guidance": [
+                    {
+                        "text": "General On-demand Feed Specification (GOFS)-lite:",
+                        "weblink": "https://github.com/GOFS-lite/GOFS-lite"
+                    },
+                    {
+                        "text": "General On-demand Feed Specification (GOFS):",
+                        "weblink": "https://share.mobilitydata.org/gtfs-ondemand; https://mobilitydata.org/why-on-demand-transportation-needs-to-be-standardized/"
+                    },
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Flex (V2):",
+                        "weblink": "https://github.com/MobilityData/gtfs-flex"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Smart Columbus, OH:",
+                        "weblink": "https://d2rfd3nxvhnf29.cloudfront.net/2021-06/SCC-J-Program-Final%20Report-Final-V2_0.pdf "
+                    },
+                    {
+                        "text": "King County, WA:",
+                        "weblink": "https://kingcounty.gov/depts/transportation/metro/travel-options/bus/app-center.aspx"
+                    },
+                    {
+                        "text": "Regional Transportation District (RTD), Uber, Masabi-Denver, Colorado:",
+                        "weblink": "https://www.rtd-denver.com/projects/uber-collaboration"
+                    },
+                    {
+                        "text": "Patel, R., Etminani-Ghasrodashti, R., Kermanshachi, S., Rosenberger, J. M., Foss, A. (2022). Mobility-on-demand (MOD) Projects: A study of the best practices adopted in United States.",
+                        "weblink": "https://www.sciencedirect.com/science/article/pii/S259019822200063X"
+                    }
+                ]
+            },
+            "payment": {
+                "standards": [
+                    {
+                        "text": "ISO 24014-1:2021",
+                        "weblink": "https://www.iso.org/standard/72507.html"
+                    },
+                    {
+                        "text": "ISO/TR 21724-1:2020",
+                        "weblink": "https://www.iso.org/standard/71511.html"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Fares v2:",
+                        "weblink": "https://gtfs.org/schedule/examples/fares-v2/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Regional Transportation District (RTD), Uber, Masabi-Denver, Colorado:",
+                        "weblink": "https://www.rtd-denver.com/projects/uber-collaboration"
+                    }
+                ]
+            },
+            "operations": {
+                "standards": [],
+                "guidance": [
+                    {
+                        "text": "General On-demand Feed Specification (GOFS)-lite:",
+                        "weblink": "https://github.com/GOFS-lite/GOFS-lite"
+                    },
+                    {
+                        "text": "General On-demand Feed Specification (GOFS):",
+                        "weblink": "https://share.mobilitydata.org/gtfs-ondemand; https://mobilitydata.org/why-on-demand-transportation-needs-to-be-standardized/"
+                    },
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Flex (V2):",
+                        "weblink": "https://github.com/MobilityData/gtfs-flex"
+                    },
+                    {
+                        "text": "Mobility Data Specification (MDS):",
+                        "weblink": "https://ladot.io/wp-content/uploads/2018/12/What-is-MDS-Cities.pdf"
+                    },
+                    {
+                        "text": "SUTI:",
+                        "weblink": "https://trid.trb.org/view/1494371"
+                    },
+                    {
+                        "text": "Transactional Data Specification (TDS):",
+                        "weblink": "https://sharedusemobilitycenter.org/the-transactional-data-specification-a-building-block-for-equitable-mobility-as-a-service/ "
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Transit App:",
+                        "weblink": "https://resources.transitapp.com/article/401-on-demand-transit#gofs"
+                    },
+                    {
+                        "text": "iMOVE Sydney MaaS Trial, Sydney, Australia:",
+                        "weblink": "https://imoveaustralia.com/wp-content/uploads/2021/04/iMOVE-Sydney-MaaS-Trial-Final-Report-March-2021.pdf"
+                    },
+                    {
+                        "text": "Smart Columbus, OH:",
+                        "weblink": "https://d2rfd3nxvhnf29.cloudfront.net/2021-06/SCC-J-Program-Final%20Report-Final-V2_0.pdf"
+                    }
+                ]
+            }
+        },
+        "rail": {
+            "tripdiscovery": {
+                "standards": [
+                    {
+                        "text": "ISO/TS 4398:2022",
+                        "weblink": "https://www.iso.org/standard/79916.html#:~:text=This%20document%20specifies%20an%20open,a%20track%2Dbound%20transportation%20system"
+                    },
+                    {
+                        "text": "EN12896: Public Transport Reference Data Model:",
+                        "weblink": " https://www.en-standard.eu/csn-en-12896-1-public-transport-reference-data-model-part-1-common-concepts/"
+                    },
+                    {
+                        "text": "EN 15531:",
+                        "weblink": "https://www.en-standard.eu/csn-en-15531-2-public-transport-service-interface-for-real-time-information-relating-to-public-transport-operations-part-2-communications/"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS):",
+                        "weblink": "https://gtfs.org/"
+                    },
+                    {
+                        "text": "Caltrans-California Minimum GTFS guidelines:",
+                        "weblink": "https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines-v2_0"
+                    },
+                    {
+                        "text": "Schweiger, C., O'Reilly, K., Chang, A., Guan, A., Okunieff, P. E., Neelakantan, R., . . . Peck, C. (2019). Forward-Looking Assessment White Paper: Multimodal and Accessible Travel Standards Assessment – Task 2. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/53933"
+                    },
+                    {
+                        "text": "MaaS Alliance: Interoperability for Mobility, Data Models, and API:",
+                        "weblink": "https://maas-alliance.eu/wp-content/uploads/2021/11/20211120-Def-Version-Interoperaability-for-Mobility.-Data-Models-and-API-_-FINAL.pdf"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "​King County, WA:",
+                        "weblink": "https://kingcounty.gov/depts/transportation/metro/travel-options/bus/app-center.aspx"
+                    }
+                ]
+            },
+            "payment": {
+                "standards": [
+                    {
+                        "text": "ISO 24014-1:2021",
+                        "weblink": "https://www.iso.org/standard/72507.html"
+                    },
+                    {
+                        "text": "APTA Universal Transit Fare Systems (UTFS). Retrieved from ",
+                        "weblink": " https://www.apta.com/research-technical-resources/standards/technology/"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Fares v2:",
+                        "weblink": "https://gtfs.org/schedule/examples/fares-v2/"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Regional Transportation District (RTD), Uber, Masabi-Denver, Colorado:",
+                        "weblink": "https://www.rtd-denver.com/projects/uber-collaboration"
+                    },
+                    {
+                        "text": "MaaS in Netherlands-Seven pilots:",
+                        "weblink": "https://dutchmobilityinnovations.com/fileattachment?file=NZMb7vThGsXAYQh2kmLvUQ%3D%3D&v=1"
+                    }
+                ]
+            },
+            "operations": {
+                "standards": [
+                    {
+                        "text": "EN12896 (aka Transmodel): Public Transport Reference Data Model:",
+                        "weblink": "https://www.en-standard.eu/csn-en-12896-1-public-transport-reference-data-model-part-1-common-concepts/"
+                    },
+                    {
+                        "text": " APTA Rail Transit Systems Standards",
+                        "weblink": "https://www.apta.com/research-technical-resources/standards/rail/"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "General Transit Feed Specification (GTFS)-Realtime:",
+                        "weblink": "https://gtfs.org/realtime/"
+                    },
+                    {
+                        "text": "Mobility Data Specification (MDS):",
+                        "weblink": "https://ladot.io/wp-content/uploads/2018/12/What-is-MDS-Cities.pdf"
+                    },
+                    {
+                        "text": "TransitCenter, The Data Transit Riders Want:",
+                        "weblink": "https://transitcenter.org/wp-content/uploads/2018/12/TC_TransitData_Final_FullLayout_121718-1.pdf"
+                    },
+                    {
+                        "text": "Schweiger, C., O'Reilly, K., Chang, A., Guan, A., Okunieff, P. E., Neelakantan, R., . . . Peck, C. (2019). Forward-Looking Assessment White Paper: Multimodal and Accessible Travel Standards Assessment – Task 2. Retrieved from",
+                        "weblink": "https://rosap.ntl.bts.gov/view/dot/53933"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "​MaaS in Netherlands-Seven pilots:",
+                        "weblink": "https://dutchmobilityinnovations.com/fileattachment?file=NZMb7vThGsXAYQh2kmLvUQ%3D%3D&v=1"
+                    }
+                ]
+            }
+        },
+        "tnctaxisharing": {
+            "tripdiscovery": {
+                "standards": [],
+                "guidance": [
+                    {
+                        "text": "Legislation Regulating Transportation Network Companies (TNC), Texas, 2017:",
+                        "weblink": "https://learn.sharedusemobilitycenter.org/wp-content/uploads/policy-documents-2/HB00100F.pdf"
+                    },
+                    {
+                        "text": "General On-demand Feed Specification (GOFS):",
+                        "weblink": "https://share.mobilitydata.org/gtfs-ondemand; https://mobilitydata.org/why-on-demand-transportation-needs-to-be-standardized/"
+                    },
+                    {
+                        "text": "Transit, Ridehail and Taxi:",
+                        "weblink": "https://resources.transitapp.com/article/403-ridehail-and-taxi"
+                    },
+                    {
+                        "text": "Transport Operator Mobility-as-a-service Provider (TOMP) from Github:",
+                        "weblink": "https://github.com/TOMP-WG/TOMP-API"
+                    },
+                    {
+                        "text": "Transport Operator Mobility-as-a-service Provider (TOMP) from Dutch Mobility Innovations:",
+                        "weblink": "https://dutchmobilityinnovations.com/attachment?file=FN%2F9HXXdbnjwbPscgpt1LA%3D%3D"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Regional Transportation District (RTD), Uber, Masabi-Denver, Colorado:",
+                        "weblink": "https://www.rtd-denver.com/projects/uber-collaboration"
+                    },
+                    {
+                        "text": "Fiscal Year 2016 Mobility on Demand (MOD) Sandbox Program Projects:",
+                        "weblink": "https://www.transit.dot.gov/research-innovation/fiscal-year-2016-mobility-demand-mod-sandbox-program-projects"
+                    },
+                    {
+                        "text": "Uber API:",
+                        "weblink": "https://developer.uber.com/docs/riders/ride-requests/introduction "
+                    }
+                ]
+            },
+            "payment": {
+                "standards": [],
+                "guidance": [
+                    {
+                        "text": "Transport Operator Mobility-as-a-service Provider (TOMP) from Github:",
+                        "weblink": "https://github.com/TOMP-WG/TOMP-API"
+                    },
+                    {
+                        "text": "Transport Operator Mobility-as-a-service Provider (TOMP) from Dutch Mobility Innovations:",
+                        "weblink": "https://dutchmobilityinnovations.com/attachment?file=FN%2F9HXXdbnjwbPscgpt1LA%3D%3D"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Fiscal Year 2016 Mobility on Demand (MOD) Sandbox Program Projects:",
+                        "weblink": "https://www.transit.dot.gov/research-innovation/fiscal-year-2016-mobility-demand-mod-sandbox-program-projects"
+                    },
+                    {
+                        "text": "​Regional Transportation District (RTD), Uber, Masabi-Denver, Colorado:",
+                        "weblink": "https://www.rtd-denver.com/projects/uber-collaboration"
+                    }
+                ]
+            },
+            "operations": {
+                "standards": [
+                    {
+                        "text": "ISO 22085-1 through 3:",
+                        "weblink": "https://www.iso.org/standard/75366.html"
+                    }
+                ],
+                "guidance": [
+                    {
+                        "text": "National Academies of Sciences, Engineering, and Medicine. (2019). Partnerships Between Transit Agencies and Transportation Network Companies. Washington, DC: The National Academies Press. Available at:",
+                        "weblink": "https://doi.org/10.17226/25425"
+                    },
+                    {
+                        "text": "General On-demand Feed Specification (GOFS):",
+                        "weblink": "https://share.mobilitydata.org/gtfs-ondemand; https://mobilitydata.org/why-on-demand-transportation-needs-to-be-standardized/"
+                    },
+                    {
+                        "text": "Mobility Data Specification (MDS):",
+                        "weblink": "https://ladot.io/wp-content/uploads/2018/12/What-is-MDS-Cities.pdf"
+                    },
+                    {
+                        "text": "Shared Mobility: Current Practices and Guiding Principles:",
+                        "weblink": "https://ops.fhwa.dot.gov/publications/fhwahop16022/ch5.htm"
+                    },
+                    {
+                        "text": "State Legislation for TNCs:",
+                        "weblink": "https://policy.tti.tamu.edu/technology/tnc-legislation"
+                    }
+                ],
+                "casestudies": [
+                    {
+                        "text": "Fiscal Year 2016 Mobility on Demand (MOD) Sandbox Program Projects:",
+                        "weblink": "https://www.transit.dot.gov/research-innovation/fiscal-year-2016-mobility-demand-mod-sandbox-program-projects"
+                    },
+                    {
+                        "text": "SUMC, Objective-Driven Data Sharing for Transit Agencies in Mobility Partnerships:",
+                        "weblink": "https://sharedusemobilitycenter.org/wp-content/uploads/2020/04/SUMC_IKA_DataSharingforTransitAgencies.pdf"
+                    }
+                ]
+            }
+        }
+    }
+}
